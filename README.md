@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/interactive-rating-component-iZWvK8GpCm)
+- Live Site URL: [here](https://mohamed-abd-elkahlk.github.io/Interactive-rating-component/)
 
 ## Author
 - Frontend Mentor - [@mohamed-abd-elkahlk](https://www.frontendmentor.io/profile/mohamed-abd-elkahlk)
